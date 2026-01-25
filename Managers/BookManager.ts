@@ -1,0 +1,3 @@
+class BookManager {}
+
+export { BookManager };
