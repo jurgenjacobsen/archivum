@@ -1,3 +1,0 @@
-class BookManager {}
-
-export { BookManager };

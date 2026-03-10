@@ -1,5 +1,0 @@
-class Book {
-    
-}
-
-export { Book };
