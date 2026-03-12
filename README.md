@@ -13,5 +13,3 @@
 - **Bridge**: Wails
 - **Database**: PostgreSQL (Supabase)
 - **Authentication**: Supabase Auth
-
-<div><iframe width="1600" height="600" frameBorder="0" src="https://www.mindmeister.com/maps/public_map_shell/3960597975/archivum?width=1600&height=600&z=auto&live_update=1&no_share=1&no_logo=1" scrolling="no" style="overflow:hidden;margin-bottom:5px">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/3960597975/archivum" target="_blank">Archivum</a> on MindMeister.</iframe></div>
