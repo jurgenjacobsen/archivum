@@ -13,3 +13,6 @@
 - **Bridge**: Wails
 - **Database**: PostgreSQL (Supabase)
 - **Authentication**: Supabase Auth
+
+## Project Structure
+https://www.mindmeister.com/3960597975/archivum
