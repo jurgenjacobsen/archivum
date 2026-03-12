@@ -15,4 +15,4 @@
 - **Authentication**: Supabase Auth
 
 ## Project Structure
-https://www.mindmeister.com/3960597975/archivum
+[Mindmap](https://www.mindmeister.com/app/map/3960597975?fullscreen=1&v=public)
