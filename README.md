@@ -15,7 +15,7 @@
 - **Authentication**: Supabase Auth
 
 ## Project Feature Structure
-https://www.mindmeister.com/3960597975/archivum
+[Mind Map](https://www.mindmeister.com/app/map/3960597975?fullscreen=1&v=public)
 
 ## Folder Structure
 ```
