@@ -14,5 +14,26 @@
 - **Database**: PostgreSQL (Supabase)
 - **Authentication**: Supabase Auth
 
-## Project Structure
-[Mindmap](https://www.mindmeister.com/app/map/3960597975?fullscreen=1&v=public)
+## Project Feature Structure
+https://www.mindmeister.com/3960597975/archivum
+
+## Folder Structure
+```
+archivum/
+├── .github/
+│   ├── FUNDING.yml             # Funding information
+│   └── workflows/              # Github Actions workflows for packaging, testing, and deployment
+├── apps/
+│   ├── librarian-desktop/      # Wails & Go - Librarian desktop station
+│   ├── librarian-mobile/       # .NET MAUI - Librarian app
+│   ├── reader-mobile/          # .NET MAUI - Reader app
+│   └── website/                # React
+├── packages/
+│   ├── ui-shared/              # Shared UI components (buttons, SVG map renderer)
+│   └── core-logic/             # Shared TypeScript logic (Borrowing rules, date tracking)
+├── services/
+│   ├── local/                  # The self-hosted backend
+│   └── global/                 # The company-hosted central API
+├── docker/                     # Dockerfiles and compose files for local development and production deployment
+└── package.json                # Root dependencies and workspace config
+```
