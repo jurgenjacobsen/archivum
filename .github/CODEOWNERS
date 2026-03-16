@@ -1,0 +1,21 @@
+# See https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+# Set default code owners for the entire repository
+*       @jurgenjacobsen
+
+# Specific code owners for folders
+# /apps/librarian-desktop/    @jurgenjacobsen @desktop-team
+# /apps/librarian-mobile/     @mobile-team
+# /apps/reader-mobile/        @mobile-team
+# /apps/website/              @frontend-team
+
+# /packages/ui-shared/        @frontend-team
+# /packages/core-logic/       @backend-team
+
+# /services/local/            @backend-team
+# /services/global/           @backend-team
+
+# /docker/                    @devops-team
+
+# GitHub workflows and funding
+# .github/                    @jurgenjacobsen
