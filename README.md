@@ -5,12 +5,14 @@
 
 **Archivum** is a high-performance library management system designed to serve as the "Central Memory" for personal and public libraries. Rooted in the Latin tradition of the *Archivitas*, it provides a rigid yet fluid framework for cataloging, tracking, and preserving vast collections of books.
 
-## ✨ Core Features
+## Core Features
 
 ## Tech Stack
-- **Frontend**: ReactTS (Vite) & TailwindCSS
-- **Backend**: Golang
-- **Bridge**: Wails
+[![Project Tech Stack](https://skillicons.dev/icons?i=react,vite,tailwind,typescript,go,dotnet,cs,tauri,postgresql,supabase,docker,nginx)](#archivum)
+- **Website**: ReactTS (Vite) & TailwindCSS
+- **Desktop App**: Wails (Go + React) or Tauri (Rust + React)
+- **Mobile Apps**: .NET MAUI (C#)
+- **API**: Go (Gin or Echo) or TypeScript (NestJS)
 - **Database**: PostgreSQL (Supabase)
 - **Authentication**: Supabase Auth
 
