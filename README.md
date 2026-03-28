@@ -17,7 +17,7 @@
 - **Authentication**: Supabase Auth
 
 ## Project Feature Structure
-[Mind Map](https://www.mindmeister.com/app/map/3960597975?fullscreen=1&v=public)
+[Development Diagram](https://miro.com/app/board/uXjVGrKwJGU=/?share_link_id=396533675631)
 
 ## Folder Structure
 ```
