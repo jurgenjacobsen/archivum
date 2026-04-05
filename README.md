@@ -18,7 +18,6 @@
 
 ## Project Feature Structure
 [Development Diagram](https://miro.com/app/board/uXjVGrKwJGU=/?share_link_id=396533675631)
-<iframe width="100%" height="640" src="https://miro.com/app/live-embed/uXjVGrKwJGU=/?focusWidget=3458764665393760474&embedMode=view_only_without_ui&embedId=294600416304" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ## Folder Structure
 ```
